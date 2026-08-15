@@ -130,7 +130,7 @@ ${salam}, *${name}*!
 ╰──────────────────────────
 
 ${menuSection}⚡ = Butuh limit  💎 = Premium
-_${''}
+
 
     return conn.sendMessage(m.chat, { text: caption }, { quoted: m })
 }
